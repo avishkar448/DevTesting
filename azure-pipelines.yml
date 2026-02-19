@@ -18,7 +18,9 @@ steps:
     outputType: 'Tests'
     orchestratorConnection: 'DevopsService'
     traceLevel: 'None'
-- task: UiPathTest@6
+- task: UiPathDeploy@6
   inputs:
-    testTarget: 'TestSet'
     orchestratorConnection: 'DevopsService'
+    packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
+    folderName: 'avishkar'
+    traceLevel: 'None'
