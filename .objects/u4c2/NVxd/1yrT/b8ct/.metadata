@@ -1,0 +1,13 @@
+﻿{
+  "Name": "SuccessMsg",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "b8ctHqwEH0i2W-7zCNrunA",
+  "Reference": "fuykXKEeEk2SRJ9WUPakiQ/b8ctHqwEH0i2W-7zCNrunA",
+  "ParentRef": "fuykXKEeEk2SRJ9WUPakiQ/1yrTgd_UwUGe-2PBkG4HQw",
+  "Created": "2026-02-19T14:25:59.527674Z",
+  "Updated": "2026-02-19T14:25:59.527674Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

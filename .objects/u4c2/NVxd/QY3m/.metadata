@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: Test Login | Practice Test Automation",
+  "Type": "Screen",
+  "Id": "QY3mVcX_30-k3-KrRkyUfQ",
+  "Reference": "fuykXKEeEk2SRJ9WUPakiQ/QY3mVcX_30-k3-KrRkyUfQ",
+  "ParentRef": "fuykXKEeEk2SRJ9WUPakiQ/NVxdlbaAl0WXhPfb86fNyQ",
+  "Created": "2026-02-19T14:25:59.1362198Z",
+  "Updated": "2026-02-19T14:25:59.1362198Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

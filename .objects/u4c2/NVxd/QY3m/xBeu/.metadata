@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Username",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "xBeu7D_Cck-BFyRu7fWjDA",
+  "Reference": "fuykXKEeEk2SRJ9WUPakiQ/xBeu7D_Cck-BFyRu7fWjDA",
+  "ParentRef": "fuykXKEeEk2SRJ9WUPakiQ/QY3mVcX_30-k3-KrRkyUfQ",
+  "Created": "2026-02-19T14:25:59.2636257Z",
+  "Updated": "2026-02-19T14:25:59.2636257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

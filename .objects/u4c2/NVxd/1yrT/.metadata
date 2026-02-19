@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: Logged In Successfully | Practice Tes",
+  "Type": "Screen",
+  "Id": "1yrTgd_UwUGe-2PBkG4HQw",
+  "Reference": "fuykXKEeEk2SRJ9WUPakiQ/1yrTgd_UwUGe-2PBkG4HQw",
+  "ParentRef": "fuykXKEeEk2SRJ9WUPakiQ/NVxdlbaAl0WXhPfb86fNyQ",
+  "Created": "2026-02-19T14:25:59.464798Z",
+  "Updated": "2026-02-19T14:25:59.464798Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

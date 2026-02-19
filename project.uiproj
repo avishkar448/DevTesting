@@ -1,0 +1,6 @@
+{
+  "Name": "LoginDev",
+  "ProjectType": "Tests",
+  "Description": "This demostrate the login test case using CI/CD",
+  "MainFile": "Main.xaml"
+}
