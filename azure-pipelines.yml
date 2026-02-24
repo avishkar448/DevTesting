@@ -22,4 +22,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'DevopsService'
+    projectKey: 'UIB'
+    testSet: 'Devops'
+    folderName: 'avishkar'
     traceLevel: 'None'
